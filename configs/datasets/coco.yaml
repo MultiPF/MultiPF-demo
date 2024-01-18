@@ -1,0 +1,9 @@
+DATASET:
+  NAME: "episodic_coco"
+  ROOT: "/data/dataset/COCO"
+  VAL_SPLIT: "val"
+  TEST_SPLIT: "test"
+  TRAIN_SPLIT: "train"
+  VAL_CLASS: 12
+  TEST_CLASS: 16
+  TRAIN_CLASS: 16

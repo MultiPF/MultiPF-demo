@@ -1,0 +1,10 @@
+DATASET:
+  NAME: "episodic_voc"
+  ROOT: "/data/dataset/VOC"
+  VAL_SPLIT: "val"
+  TEST_SPLIT: "test"
+  TRAIN_SPLIT: "train"
+  VAL_CLASS: 6
+  TEST_CLASS: 6
+  TRAIN_CLASS: 6
+  
